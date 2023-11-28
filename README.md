@@ -1,4 +1,4 @@
 # sailorMoon
-Source code for my Sailor Moon smash moveset
+Source code for the Sailor Moon moveset for Smash Ultimate
 
 Any questions, please message me on discord at @LilyLambda
