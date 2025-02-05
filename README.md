@@ -1,4 +1,4 @@
 # Sailor Moon Moveset
-Source code for the Sailor Moon moveset for Smash Ultimate
+Source code for the [SSBU Sailor Moon Moveset mod](https://gamebanana.com/mods/390285)
 
-Any questions, please message me on discord at @LilyLambda
+Any questions? Dm me on Discord @LilyLambda
